@@ -12,7 +12,7 @@ O programa foi desenvolvido em linguagem C fazendo uso da biblioteca pthread.h, 
 
 
 ## Como Compilar o programa
-Para compilar o programa, abra o terminal no diretório do arquivo paralegrep.c e utilize o seguinte comando:
+Para compilar o programa, abra o terminal no diretório do arquivo `paralegrep.c` e utilize o seguinte comando:
 ```
 gcc -o paralegrep paralegrep.c -lpthread
 ```
