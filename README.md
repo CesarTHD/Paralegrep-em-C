@@ -1,7 +1,7 @@
 ## Integrantes
 - César Tallys Henrique Duarte
 - Emerson Carlos Alves Souza
-- Reidner
+- Reidner Sousa dos Santos
 
 # Paralegrep
 O Paralegrep é um sistema multithread para busca de palavras em arquivos de texto dentro de um diretório, que exibe o ranking dos 10 arquivos com mais ocorrências da palavra buscada. O sistema monitora continuamente o diretório para atualizações, detectando novos arquivos ou modificações nos existentes.
